@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Assiri Yann</h1>
-<h3 align="center">Possionate by AI, IO and Robot</h3>
+<h3 align="center">I love what i do </h3>
 
 - 🌱 I’m currently learning **python , js and flutter, django**
 
