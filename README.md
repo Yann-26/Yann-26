@@ -40,7 +40,7 @@ I'm a passionate developer who loves crafting elegant solutions and bringing ide
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yann-26&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yann-26&theme=tokyonight" alt="Profile Summary" />
 </div>
 
 ## 🏆 GitHub Trophies
