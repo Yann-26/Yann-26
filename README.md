@@ -21,7 +21,7 @@ I'm a passionate developer who loves crafting elegant solutions and bringing ide
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### **Frameworks & Libraries**
+### **Frameworks & Libraries explored**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,6 +31,10 @@ I'm a passionate developer who loves crafting elegant solutions and bringing ide
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## 📊 GitHub Analytics
 
@@ -63,10 +67,11 @@ I'm always excited to collaborate on interesting projects and connect with fello
 
 ## 💼 What I'm Working On
 
-- 🔨 Building scalable web applications with Django and React
+- 🔨 Building scalable web applications with Django
 - 📱 Developing cross-platform mobile apps with Flutter
 - 🧠 Exploring AI/ML integration in web applications
 - 🌐 Contributing to open-source projects
+- 🧠 I'm diving into a DevOps world,in order to make it my next job 
 
 ---
 
