@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-engineerclovis.tech-36BCF7?style=for-the-badge)](https://engineerclovis.tech)
 [![Email](https://img.shields.io/badge/📧_Email-yannassiri26@gmail.com-D14836?style=for-the-badge)](mailto:yannassiri26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yannassiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yannassiri](https://www.linkedin.com/in/yann-assiri-a1a30537a/))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yann-26&color=36BCF7&style=for-the-badge&label=Profile+Views)
 
@@ -129,8 +129,7 @@ me.say_hi()
 
 I'm always excited to work on innovative projects and connect with fellow developers!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yannassiri)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yannassiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yannassiri](https://www.linkedin.com/in/yann-assiri-a1a30537a/))
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/yannassiri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://engineerclovis.tech)
 
