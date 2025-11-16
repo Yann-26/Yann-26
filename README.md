@@ -158,8 +158,14 @@ I'm always excited to work on innovative projects and connect with fellow develo
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🐍 Watch the Snake Eat My Contributions!
+### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/yann-26/yann-26/output/github-contribution-grid-snake-dark.svg)
+
+<!--
+If snake doesn't appear, it will after you set up the GitHub Action.
+Alternative: Use this GIF version that works immediately:
+![Snake animation](https://github.com/yann-26/yann-26/blob/output/github-contribution-grid-snake.svg)
+-->
 
 ---
 
