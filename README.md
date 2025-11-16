@@ -21,7 +21,7 @@
 ```python
 class YannAssiri:
     def __init__(self):
-        self.role = "Full Stack Developer"
+        self.role = "Software engineer"
         self.current_focus = ["Python", "JavaScript", "Flutter", "Django"]
         self.learning = "DevOps Engineering"
         self.interests = ["Web Development", "Mobile Apps", "Cloud Architecture"]
@@ -42,7 +42,7 @@ me.say_hi()
 - 🔨 Building scalable Django applications
 - 📱 Developing Flutter mobile apps
 - 🐳 Mastering Docker & Kubernetes
-- 🧠 Integrating AI/ML in web apps
+- 🧠 Jenkins, Ansible, Terraform
 - 🌐 Contributing to open source
 
 </td>
@@ -120,15 +120,6 @@ me.say_hi()
 </div>
 
 ---
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann-26&repo=your-project-1&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/yann-26/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yann-26&repo=your-project-2&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7)](https://github.com/yann-26/your-project-2)
-
-</div>
 
 ---
 
