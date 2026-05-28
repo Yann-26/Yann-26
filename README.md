@@ -55,7 +55,6 @@ I aim to contribute to research at the intersection of:
 * Dart
 * JavaScript
 * TypeScript
-* Java
 
 ---
 
