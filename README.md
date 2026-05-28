@@ -2,9 +2,9 @@
 
 # Yann Assiri
 
-### Research Engineer | Cloud-Native Distributed Systems | Kubernetes | DevOps
+### MTech Computer Science | Distributed Systems Engineer | PhD Applicant (Germany)
 
-Building scalable, intelligent, and cost-efficient distributed infrastructures for modern cloud environments.
+Designing adaptive, scalable, and intelligent cloud-native systems for next-generation distributed infrastructures.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-engineerclovis.tech-0A66C2?style=for-the-badge)](https://engineerclovis.tech)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge)](mailto:yannassiri26@gmail.com)
@@ -14,169 +14,193 @@ Building scalable, intelligent, and cost-efficient distributed infrastructures f
 
 ---
 
-## Research Profile
+## About Me
 
-I am a software engineer with a strong interest in **distributed systems, cloud-native orchestration, infrastructure automation, and adaptive resource optimization**.
+I am a software engineer with a strong academic and engineering focus on **distributed systems, cloud-native orchestration, adaptive resource optimization, and resilient infrastructure automation**.
 
-My current work focuses on designing systems that improve:
+My work combines **systems engineering rigor** with **research-oriented experimentation**, with the objective of designing efficient, fault-tolerant, and cost-aware large-scale infrastructures.
 
-* cloud resource efficiency
-* distributed reliability
-* infrastructure scalability
-* Kubernetes automation
-* cost-aware orchestration
+I am actively preparing for **fully funded doctoral research opportunities in Germany** in distributed systems and cloud computing.
 
-I aim to contribute to research at the intersection of:
+---
 
-* Cloud Computing
+## Education
+
+**Master of Technology (MTech)**
+Computer Science & Engineering
+
+Academic focus:
+
 * Distributed Systems
-* Infrastructure Optimization
-* Fault-Tolerant Architectures
-* Adaptive Scheduling Systems
+* Cloud Computing
+* Software Engineering
+* Scalable Infrastructure Design
+* Systems Optimization
+
+---
+
+## Research Vision
+
+My research goal is to investigate:
+
+* How distributed systems can self-optimize under dynamic workloads
+* Cost-aware orchestration for cloud-native infrastructures
+* Adaptive scheduling for Kubernetes clusters
+* Predictive resource allocation in large-scale systems
+* Resilient distributed architectures under uncertainty
 
 ---
 
 ## Research Interests
 
 * Adaptive Cloud Orchestration
-* Cost-Aware Kubernetes Scheduling
-* Distributed Fault Tolerance
-* Cloud Infrastructure Automation
+* Distributed Resource Scheduling
+* Kubernetes Systems Research
 * Predictive Auto-Scaling
-* Resource Optimization in Distributed Environments
+* Fault-Tolerant Distributed Systems
+* Cloud Cost Optimization
+* Infrastructure Intelligence
 
 ---
 
-## Technical Expertise
+## Technical Stack
 
-### Programming Languages
+### Languages
 
 * Python
 * Dart
-* JavaScript
 * TypeScript
+* JavaScript
 
 ---
 
-### Cloud & DevOps
+### Distributed Systems & Cloud
 
 * Kubernetes
 * Docker
 * Terraform
-* CI/CD Pipelines
+* Linux
 * Infrastructure as Code
-* Linux Systems Administration
+* CI/CD Automation
 
 ---
 
-### Frameworks & Platforms
+### Backend & Platforms
 
 * FastAPI
 * Django
-* Flutter
 * REST APIs
 * Microservices Architecture
 
 ---
 
-### Monitoring & Observability
+### Observability & Monitoring
 
 * Prometheus
 * Grafana
-* Metrics Analysis
+* Distributed Metrics Analysis
 * Performance Monitoring
 
 ---
 
-## Featured Research Projects
+## Research Projects
 
-### Cloud Cost Optimization Engine
+## Adaptive Kubernetes Resource Optimization Framework
 
-Adaptive cost-aware auto-scaling engine for Kubernetes environments.
+A research-oriented system for dynamic and cost-aware Kubernetes orchestration.
 
-**Key Contributions**
+### Research Question
 
-* Dynamic scaling decisions
+How can predictive scheduling reduce operational cloud cost while preserving system performance guarantees?
+
+### Contributions
+
+* Dynamic resource allocation
 * Cost-performance optimization
-* Resource efficiency analysis
 * Predictive workload adaptation
-
-**Research Focus**
-Adaptive infrastructure optimization for distributed systems.
+* Scheduling intelligence
 
 ---
 
-### Distributed Fault-Tolerance Framework
+## Distributed Fault-Tolerance Coordination Framework
 
-A resilient distributed service coordination system.
+A resilient orchestration layer for failure-aware distributed services.
 
-**Key Contributions**
+### Research Question
+
+How can distributed services recover autonomously while minimizing consistency degradation?
+
+### Contributions
 
 * Failure detection
 * Recovery automation
-* Reliability optimization
-* Distributed consistency handling
-
-**Research Focus**
-Reliable large-scale distributed architectures.
+* Distributed coordination
+* Reliability enhancement
 
 ---
 
-### Flutter Cloud Monitoring Platform
+## Mobile Cloud Observability Platform
 
-Mobile observability and infrastructure control system.
+A Flutter-powered infrastructure monitoring and orchestration interface.
 
-**Key Contributions**
+### Research Question
 
-* Real-time monitoring
+Can human-in-the-loop cloud control improve operational responsiveness in distributed systems?
+
+### Contributions
+
+* Real-time observability
 * Remote orchestration
 * Infrastructure visibility
-* Operational responsiveness
-
-**Research Focus**
-Human-in-the-loop cloud orchestration.
+* Operational analytics
 
 ---
 
-## Current Research Direction
+## Open Research Questions
 
-I am currently exploring:
-
-* Intelligent Kubernetes scheduling
-* Resource-aware distributed orchestration
-* Cost-efficient cloud-native architectures
-* Predictive infrastructure adaptation
+* How can Kubernetes scheduling become cost-adaptive in volatile environments?
+* Can predictive orchestration improve infrastructure efficiency without increasing latency?
+* How can distributed systems autonomously optimize resource utilization?
+* What mechanisms enable resilient large-scale adaptive scheduling?
 
 ---
 
 ## Academic Objective
 
-I am actively seeking **fully funded PhD opportunities in Germany** focused on:
+Seeking **fully funded PhD opportunities in Germany** in:
 
-* Cloud Computing
 * Distributed Systems
-* Infrastructure Optimization
+* Cloud Computing
+* Adaptive Infrastructure Optimization
 * Large-Scale Systems Engineering
+
+Target institutions:
+
+* Technical University of Munich
+* RWTH Aachen University
+* Karlsruhe Institute of Technology
+* University of Stuttgart
+* TU Berlin
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yann-26&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-26&layout=compact&theme=tokyonight" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yann-26&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-26&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </div>
 
 ---
 
 ## Collaboration
 
-I am open to:
+Open to:
 
 * Research collaborations
-* Open-source infrastructure projects
-* Cloud-native systems engineering
 * Distributed systems experimentation
+* Cloud-native infrastructure projects
+* Open-source systems engineering
 
 ---
 
@@ -184,14 +208,239 @@ I am open to:
 
 **Yann Assiri**
 
-Research-focused Software Engineer
-Cloud-Native Distributed Systems
+Distributed Systems Engineer
+PhD Applicant (Germany)
 
 Email: [yannassiri26@gmail.com](mailto:yannassiri26@gmail.com)
+
+GitHub: https://github.com/Yann-26
 
 LinkedIn:
 https://www.linkedin.com/in/yann-assiri-a1a30537a/
 
 ---
 
-> Designing intelligent distributed infrastructures for scalable and efficient computing systems.
+> Building adaptive distributed systems for scalable and intelligent cloud infrastructures.
+<div align="center">
+
+# Yann Assiri
+
+### MTech Computer Science | Distributed Systems Engineer | PhD Applicant (Germany)
+
+Designing adaptive, scalable, and intelligent cloud-native systems for next-generation distributed infrastructures.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-engineerclovis.tech-0A66C2?style=for-the-badge)](https://engineerclovis.tech)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge)](mailto:yannassiri26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/yann-assiri-a1a30537a/)
+
+</div>
+
+---
+
+## About Me
+
+I am a software engineer with a strong academic and engineering focus on **distributed systems, cloud-native orchestration, adaptive resource optimization, and resilient infrastructure automation**.
+
+My work combines **systems engineering rigor** with **research-oriented experimentation**, with the objective of designing efficient, fault-tolerant, and cost-aware large-scale infrastructures.
+
+I am actively preparing for **fully funded doctoral research opportunities in Germany** in distributed systems and cloud computing.
+
+---
+
+## Education
+
+**Master of Technology (MTech)**
+Computer Science & Engineering
+
+Academic focus:
+
+* Distributed Systems
+* Cloud Computing
+* Software Engineering
+* Scalable Infrastructure Design
+* Systems Optimization
+
+---
+
+## Research Vision
+
+My research goal is to investigate:
+
+* How distributed systems can self-optimize under dynamic workloads
+* Cost-aware orchestration for cloud-native infrastructures
+* Adaptive scheduling for Kubernetes clusters
+* Predictive resource allocation in large-scale systems
+* Resilient distributed architectures under uncertainty
+
+---
+
+## Research Interests
+
+* Adaptive Cloud Orchestration
+* Distributed Resource Scheduling
+* Kubernetes Systems Research
+* Predictive Auto-Scaling
+* Fault-Tolerant Distributed Systems
+* Cloud Cost Optimization
+* Infrastructure Intelligence
+
+---
+
+## Technical Stack
+
+### Languages
+
+* Python
+* Dart
+* TypeScript
+* JavaScript
+
+---
+
+### Distributed Systems & Cloud
+
+* Kubernetes
+* Docker
+* Terraform
+* Linux
+* Infrastructure as Code
+* CI/CD Automation
+
+---
+
+### Backend & Platforms
+
+* FastAPI
+* Django
+* REST APIs
+* Microservices Architecture
+
+---
+
+### Observability & Monitoring
+
+* Prometheus
+* Grafana
+* Distributed Metrics Analysis
+* Performance Monitoring
+
+---
+
+## Research Projects
+
+## Adaptive Kubernetes Resource Optimization Framework
+
+A research-oriented system for dynamic and cost-aware Kubernetes orchestration.
+
+### Research Question
+
+How can predictive scheduling reduce operational cloud cost while preserving system performance guarantees?
+
+### Contributions
+
+* Dynamic resource allocation
+* Cost-performance optimization
+* Predictive workload adaptation
+* Scheduling intelligence
+
+---
+
+## Distributed Fault-Tolerance Coordination Framework
+
+A resilient orchestration layer for failure-aware distributed services.
+
+### Research Question
+
+How can distributed services recover autonomously while minimizing consistency degradation?
+
+### Contributions
+
+* Failure detection
+* Recovery automation
+* Distributed coordination
+* Reliability enhancement
+
+---
+
+## Mobile Cloud Observability Platform
+
+A Flutter-powered infrastructure monitoring and orchestration interface.
+
+### Research Question
+
+Can human-in-the-loop cloud control improve operational responsiveness in distributed systems?
+
+### Contributions
+
+* Real-time observability
+* Remote orchestration
+* Infrastructure visibility
+* Operational analytics
+
+---
+
+## Open Research Questions
+
+* How can Kubernetes scheduling become cost-adaptive in volatile environments?
+* Can predictive orchestration improve infrastructure efficiency without increasing latency?
+* How can distributed systems autonomously optimize resource utilization?
+* What mechanisms enable resilient large-scale adaptive scheduling?
+
+---
+
+## Academic Objective
+
+Seeking **fully funded PhD opportunities in Germany** in:
+
+* Distributed Systems
+* Cloud Computing
+* Adaptive Infrastructure Optimization
+* Large-Scale Systems Engineering
+
+Target institutions:
+
+* Technical University of Munich
+* RWTH Aachen University
+* Karlsruhe Institute of Technology
+* University of Stuttgart
+* TU Berlin
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yann-26&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-26&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
+</div>
+
+---
+
+## Collaboration
+
+Open to:
+
+* Research collaborations
+* Distributed systems experimentation
+* Cloud-native infrastructure projects
+* Open-source systems engineering
+
+---
+
+## Contact
+
+**Yann Assiri**
+
+Distributed Systems Engineer
+PhD Applicant (Germany)
+
+Email: [yannassiri26@gmail.com](mailto:yannassiri26@gmail.com)
+
+GitHub: https://github.com/Yann-26
+
+LinkedIn:
+https://www.linkedin.com/in/yann-assiri-a1a30537a/
+
+---
+
+> Building adaptive distributed systems for scalable and intelligent cloud infrastructures.
