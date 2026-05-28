@@ -1,123 +1,198 @@
 <div align="center">
 
-# 👋 Hi, I'm Yann Assiri
+# Yann Assiri
 
-### Full Stack Developer | Python Enthusiast | DevOps Explorer
+### Research Engineer | Cloud-Native Distributed Systems | Kubernetes | DevOps
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+scalable+web+applications;Crafting+cross-platform+mobile+experiences;Exploring+the+DevOps+universe" alt="Typing SVG" />
+Building scalable, intelligent, and cost-efficient distributed infrastructures for modern cloud environments.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-engineerclovis.tech-36BCF7?style=for-the-badge)](https://engineerclovis.tech)
-[![Email](https://img.shields.io/badge/📧_Email-yannassiri26@gmail.com-D14836?style=for-the-badge)](mailto:yannassiri26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yann-assiri-a1a30537a/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yann-26&color=36BCF7&style=for-the-badge&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-engineerclovis.tech-0A66C2?style=for-the-badge)](https://engineerclovis.tech)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge)](mailto:yannassiri26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/yann-assiri-a1a30537a/)
 
 </div>
 
+---
 
-## 🚀 About Me
+## Research Profile
 
-```python
-class YannAssiri:
-    def __init__(self):
-        self.role = "Software Engineer"
-        self.stack = ["Python", "JavaScript", "Flutter", "Django"]
-        self.learning = "DevOps Engineering (K8s, Terraform)"
-        self.philosophy = "Clean code is not a luxury; it's a necessity."
-    
-    def greet(self):
-        return "Thanks for dropping by! Let's build something amazing together 🚀"
+I am a software engineer with a strong interest in **distributed systems, cloud-native orchestration, infrastructure automation, and adaptive resource optimization**.
 
-me = YannAssiri()
-print(me.greet())
+My current work focuses on designing systems that improve:
 
-```
+* cloud resource efficiency
+* distributed reliability
+* infrastructure scalability
+* Kubernetes automation
+* cost-aware orchestration
 
-<table>
-<tr>
-<td width="50%">
+I aim to contribute to research at the intersection of:
 
-### 🎯 Current Focus
-
-* 🔨 **Scalability:** Architecting Django backends.
-* 📱 **Mobile:** Flutter cross-platform development.
-* 🐳 **Cloud:** Mastering Docker & Kubernetes.
-* ⚙️ **IaC:** Learning Terraform & Ansible.
-* 🌐 **OSS:** Contributing to open source.
-
-</td>
-<td width="50%">
-
-### 💡 Quick Facts
-
-* 🎓 Continuous learner & problem solver.
-* 🤝 Open to meaningful collaborations.
-* 🌍 Passionate about global-scale impact.
-* ☕ Powered by caffeine and curiosity.
-* 🎨 Sharp eye for UI/UX details.
-
-</td>
-</tr>
-</table>
+* Cloud Computing
+* Distributed Systems
+* Infrastructure Optimization
+* Fault-Tolerant Architectures
+* Adaptive Scheduling Systems
 
 ---
 
-## 🛠️ Tech Arsenal
+## Research Interests
+
+* Adaptive Cloud Orchestration
+* Cost-Aware Kubernetes Scheduling
+* Distributed Fault Tolerance
+* Cloud Infrastructure Automation
+* Predictive Auto-Scaling
+* Resource Optimization in Distributed Environments
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+
+* Python
+* Dart
+* JavaScript
+* TypeScript
+* Java
+
+---
+
+### Cloud & DevOps
+
+* Kubernetes
+* Docker
+* Terraform
+* CI/CD Pipelines
+* Infrastructure as Code
+* Linux Systems Administration
+
+---
+
+### Frameworks & Platforms
+
+* FastAPI
+* Django
+* Flutter
+* REST APIs
+* Microservices Architecture
+
+---
+
+### Monitoring & Observability
+
+* Prometheus
+* Grafana
+* Metrics Analysis
+* Performance Monitoring
+
+---
+
+## Featured Research Projects
+
+### Cloud Cost Optimization Engine
+
+Adaptive cost-aware auto-scaling engine for Kubernetes environments.
+
+**Key Contributions**
+
+* Dynamic scaling decisions
+* Cost-performance optimization
+* Resource efficiency analysis
+* Predictive workload adaptation
+
+**Research Focus**
+Adaptive infrastructure optimization for distributed systems.
+
+---
+
+### Distributed Fault-Tolerance Framework
+
+A resilient distributed service coordination system.
+
+**Key Contributions**
+
+* Failure detection
+* Recovery automation
+* Reliability optimization
+* Distributed consistency handling
+
+**Research Focus**
+Reliable large-scale distributed architectures.
+
+---
+
+### Flutter Cloud Monitoring Platform
+
+Mobile observability and infrastructure control system.
+
+**Key Contributions**
+
+* Real-time monitoring
+* Remote orchestration
+* Infrastructure visibility
+* Operational responsiveness
+
+**Research Focus**
+Human-in-the-loop cloud orchestration.
+
+---
+
+## Current Research Direction
+
+I am currently exploring:
+
+* Intelligent Kubernetes scheduling
+* Resource-aware distributed orchestration
+* Cost-efficient cloud-native architectures
+* Predictive infrastructure adaptation
+
+---
+
+## Academic Objective
+
+I am actively seeking **fully funded PhD opportunities in Germany** focused on:
+
+* Cloud Computing
+* Distributed Systems
+* Infrastructure Optimization
+* Large-Scale Systems Engineering
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-
-### **Core Languages**
-
-### **Frameworks & Libraries**
-
-### **DevOps & Cloud**
-
-### **Databases & Tools**
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Yann-26&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yann-26&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Collaboration
 
-<div align="center">
+I am open to:
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yann-26&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yann-26&theme=react&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yann-26&custom_title=Contribution%20Graph&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yann-26&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yann-26&theme=react&utcOffset=5.5" alt="Productive Time" />
-
-</div>
+* Research collaborations
+* Open-source infrastructure projects
+* Cloud-native systems engineering
+* Distributed systems experimentation
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Contact
 
-<div align="center">
+**Yann Assiri**
 
-I'm always excited to work on innovative projects and connect with fellow developers!
+Research-focused Software Engineer
+Cloud-Native Distributed Systems
 
-### 💬 Open to
+Email: [yannassiri26@gmail.com](mailto:yannassiri26@gmail.com)
 
-**Full-time Roles** • **Freelance** • **Open Source** • **Tech Mentorship**
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
+LinkedIn:
+https://www.linkedin.com/in/yann-assiri-a1a30537a/
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" width="100%"/>
-
-**⭐️ From [yann-26](https://github.com/yann-26) with 💙**
-
-</div>
-
-```
+> Designing intelligent distributed infrastructures for scalable and efficient computing systems.
