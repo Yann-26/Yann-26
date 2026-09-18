@@ -24,7 +24,7 @@ yann = {
     "role": "Cloud & DevOps Engineer",
     "education": "M.Tech Computer Science & Engineering",
     "focus": ["Distributed Systems", "Cloud-Native Infrastructure", "Adaptive Orchestration"],
-    "goal": "PhD in Distributed Systems (Germany)",
+    "goal": "PhD in Distributed Systems",
     "status": "🔭 Open to research collaborations"
 }
 ```
